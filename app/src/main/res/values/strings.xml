@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RutasFirebasesGoogleMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="grabar">Iniciar</string>
+    <string name="parar">Parar</string>
+
+</resources>

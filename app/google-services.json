@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066600569715",
+    "project_id": "rutasfirebasesmap",
+    "storage_bucket": "rutasfirebasesmap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066600569715:android:411b0ea21036f409454306",
+        "android_client_info": {
+          "package_name": "com.xavi.rutasfirebasesgooglemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066600569715-sqre8ul2d9rbluno8isupqqhvnik7ktk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg0Gx1WIgfkGkwH4Mc9xTVfYNKENr88cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066600569715-sqre8ul2d9rbluno8isupqqhvnik7ktk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
